@@ -1,0 +1,15 @@
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Users\grant\Desktop\repos\ClassesExercise\Classes\obj\Debug\net6.0\ref\Classes.dll
